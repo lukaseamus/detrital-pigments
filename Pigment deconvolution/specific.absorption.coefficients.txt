@@ -1,0 +1,10 @@
+"pigment" "L.g.cm" "nm" "solvent"
+"1" "Chl.a" 112 430 "acetone"
+"2" "Chl.c1" 348 446 "acetone"
+"3" "Chl.c2" 321 445 "acetone"
+"4" "Phe.a" 206 418 "acetone"
+"5" "bb.Car" 250 454 "acetone"
+"6" "Fuco" 166 443 "acetone"
+"7" "Viola" 240 442 "acetone"
+"8" "Zea" 234 452 "acetone"
+
